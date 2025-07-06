@@ -1,4 +1,3 @@
--- 🗂️ Charger les dimensions
 
 -- dim_station
 TRUNCATE TABLE dim_station RESTART IDENTITY;
@@ -21,7 +20,6 @@ FROM '../data/meteo.csv'
 DELIMITER ','
 CSV HEADER;
 
--- 🧾 Charger la table des faits
 
 -- fait_comptage_meteo
 TRUNCATE TABLE fait_comptage_meteo RESTART IDENTITY;
