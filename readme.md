@@ -41,11 +41,10 @@ Projet de modélisation et d’analyse de données publiques de Nantes Métropol
 
 ---
 
-## 📊 Visualisations (à venir)
+## 📊 Visualisations 
 
-- Histogrammes par jour/semaine
-- Graphiques météo vs trafic vélo
-- Carte des stations les plus actives
+[![Voir le tableau de bord](tableau.png)](https://public.tableau.com/views/classeurvelonantes/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 ## 🛠️ Technologies utilisées
