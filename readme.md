@@ -52,8 +52,7 @@ Projet de modélisation et d’analyse de données publiques de Nantes Métropol
 - **PostgreSQL** : stockage et modélisation des données
 - **DBeaver** : interface SQL
 - **Python (Pandas, SQLAlchemy)** : traitement, transformation, appel API météo
-- **Qlik / R / matplotlib** : visualisation (selon la suite du projet)
-
+- **Tableau
 ---
 
 ## 📅 Période étudiée
@@ -68,10 +67,4 @@ Projet de modélisation et d’analyse de données publiques de Nantes Métropol
 Étudiante en Master Data Science – Nantes Université  
 *Contact : nafyssata@gmail.com*
 
----
-
-## 📌 Remarques
-
-- Projet en cours d’évolution : version actuelle = entrepôt de données + analyse exploratoire
-- Prochaine étape : création d’un dashboard interactif (Qlik, R Shiny ou autre)
 
