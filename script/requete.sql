@@ -1,5 +1,5 @@
 -- le jour du mois avec le plus de passage de velo avec le nombre de passage par mois et quel type de jour 
- 
+ select*from dim_meteo;
 
 -- le jour de l'anné avec le plus de passage de velo avec le nombre de passage,et la meteo qu'il faisaint
 
