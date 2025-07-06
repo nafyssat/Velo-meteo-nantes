@@ -28,7 +28,7 @@ Projet de modélisation et d’analyse de données publiques de Nantes Métropol
 - `dim_meteo` : météo quotidienne (température, pluie, vent, etc.)
 - `dim_station` : localisation et caractéristiques des boucles de comptage
 
-![Schéma en étoile](./schema_modele_etoile.png)
+![Schéma en étoile](modelisation.png)
 
 
 ## 🔍 Analyses réalisées
